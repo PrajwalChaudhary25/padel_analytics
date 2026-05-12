@@ -1,0 +1,289 @@
+[
+  {
+    "frame": 23,
+    "timestamp": 0.92,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 59.29
+  },
+  {
+    "frame": 48,
+    "timestamp": 1.92,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 82.98
+  },
+  {
+    "frame": 294,
+    "timestamp": 11.76,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 58.9
+  },
+  {
+    "frame": 318,
+    "timestamp": 12.72,
+    "player_id": 1,
+    "shot_type": "backhand",
+    "wrist_velocity": 56.88
+  },
+  {
+    "frame": 339,
+    "timestamp": 13.56,
+    "player_id": 1,
+    "shot_type": "backhand",
+    "wrist_velocity": 58.89
+  },
+  {
+    "frame": 482,
+    "timestamp": 19.28,
+    "player_id": 0,
+    "shot_type": "backhand",
+    "wrist_velocity": 88.16
+  },
+  {
+    "frame": 495,
+    "timestamp": 19.8,
+    "player_id": 1,
+    "shot_type": "backhand",
+    "wrist_velocity": 55.99
+  },
+  {
+    "frame": 499,
+    "timestamp": 19.96,
+    "player_id": 0,
+    "shot_type": "backhand",
+    "wrist_velocity": 78.19
+  },
+  {
+    "frame": 547,
+    "timestamp": 21.88,
+    "player_id": 1,
+    "shot_type": "backhand",
+    "wrist_velocity": 57.4
+  },
+  {
+    "frame": 566,
+    "timestamp": 22.64,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 64.15
+  },
+  {
+    "frame": 622,
+    "timestamp": 24.88,
+    "player_id": 2,
+    "shot_type": "forehand",
+    "wrist_velocity": 64.57
+  },
+  {
+    "frame": 733,
+    "timestamp": 29.32,
+    "player_id": 0,
+    "shot_type": "backhand",
+    "wrist_velocity": 122.03
+  },
+  {
+    "frame": 785,
+    "timestamp": 31.4,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 70.39
+  },
+  {
+    "frame": 860,
+    "timestamp": 34.4,
+    "player_id": 1,
+    "shot_type": "backhand",
+    "wrist_velocity": 67.31
+  },
+  {
+    "frame": 951,
+    "timestamp": 38.04,
+    "player_id": 2,
+    "shot_type": "backhand",
+    "wrist_velocity": 192.4
+  },
+  {
+    "frame": 953,
+    "timestamp": 38.12,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 75.39
+  },
+  {
+    "frame": 970,
+    "timestamp": 38.8,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 79.17
+  },
+  {
+    "frame": 1032,
+    "timestamp": 41.28,
+    "player_id": 2,
+    "shot_type": "forehand",
+    "wrist_velocity": 125.44
+  },
+  {
+    "frame": 1059,
+    "timestamp": 42.36,
+    "player_id": 2,
+    "shot_type": "forehand",
+    "wrist_velocity": 100.67
+  },
+  {
+    "frame": 1170,
+    "timestamp": 46.8,
+    "player_id": 0,
+    "shot_type": "forehand",
+    "wrist_velocity": 75.84
+  },
+  {
+    "frame": 1230,
+    "timestamp": 49.2,
+    "player_id": 0,
+    "shot_type": "smash",
+    "wrist_velocity": 73.51
+  },
+  {
+    "frame": 1260,
+    "timestamp": 50.4,
+    "player_id": 1,
+    "shot_type": "backhand",
+    "wrist_velocity": 79.53
+  },
+  {
+    "frame": 1313,
+    "timestamp": 52.52,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 140.03
+  },
+  {
+    "frame": 1351,
+    "timestamp": 54.04,
+    "player_id": 1,
+    "shot_type": "backhand",
+    "wrist_velocity": 88.66
+  },
+  {
+    "frame": 1408,
+    "timestamp": 56.32,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 89.56
+  },
+  {
+    "frame": 1426,
+    "timestamp": 57.04,
+    "player_id": 2,
+    "shot_type": "forehand",
+    "wrist_velocity": 79.53
+  },
+  {
+    "frame": 1485,
+    "timestamp": 59.4,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 97.13
+  },
+  {
+    "frame": 1522,
+    "timestamp": 60.88,
+    "player_id": 0,
+    "shot_type": "backhand",
+    "wrist_velocity": 63.82
+  },
+  {
+    "frame": 1557,
+    "timestamp": 62.28,
+    "player_id": 2,
+    "shot_type": "backhand",
+    "wrist_velocity": 67.68
+  },
+  {
+    "frame": 1573,
+    "timestamp": 62.92,
+    "player_id": 0,
+    "shot_type": "backhand",
+    "wrist_velocity": 56.1
+  },
+  {
+    "frame": 1593,
+    "timestamp": 63.72,
+    "player_id": 1,
+    "shot_type": "smash",
+    "wrist_velocity": 131.39
+  },
+  {
+    "frame": 1661,
+    "timestamp": 66.44,
+    "player_id": 1,
+    "shot_type": "backhand",
+    "wrist_velocity": 61.48
+  },
+  {
+    "frame": 1796,
+    "timestamp": 71.84,
+    "player_id": 1,
+    "shot_type": "backhand",
+    "wrist_velocity": 64.76
+  },
+  {
+    "frame": 1813,
+    "timestamp": 72.52,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 69.21
+  },
+  {
+    "frame": 1958,
+    "timestamp": 78.32,
+    "player_id": 0,
+    "shot_type": "forehand",
+    "wrist_velocity": 57.48
+  },
+  {
+    "frame": 1964,
+    "timestamp": 78.56,
+    "player_id": 1,
+    "shot_type": "backhand",
+    "wrist_velocity": 74.32
+  },
+  {
+    "frame": 1988,
+    "timestamp": 79.52,
+    "player_id": 1,
+    "shot_type": "smash",
+    "wrist_velocity": 62.35
+  },
+  {
+    "frame": 1991,
+    "timestamp": 79.64,
+    "player_id": 2,
+    "shot_type": "backhand",
+    "wrist_velocity": 129.61
+  },
+  {
+    "frame": 2019,
+    "timestamp": 80.76,
+    "player_id": 1,
+    "shot_type": "forehand",
+    "wrist_velocity": 67.29
+  },
+  {
+    "frame": 2051,
+    "timestamp": 82.04,
+    "player_id": 0,
+    "shot_type": "forehand",
+    "wrist_velocity": 63.17
+  },
+  {
+    "frame": 2116,
+    "timestamp": 84.64,
+    "player_id": 0,
+    "shot_type": "backhand",
+    "wrist_velocity": 60.62
+  }
+]

@@ -1,0 +1,10 @@
+models/
+myenv/
+ball_test.py
+pp.py
+preview.py
+scratch.py
+*.ipynb
+test_detection.py
+input/
+*.mp4
