@@ -132,16 +132,15 @@ python analytics.py
 ```
 
 ### Folder Structure
-- Make sure your folder looks like this
-- if any one of this is missing then you can use this [Download Link](https://drive.google.com/drive/folders/1SQxTUa4GnERG3AKN3ytlaEyuv-CiGBtM?usp=sharing)
+Make sure your folder looks like this. If anything is missing, download from this [Google Drive Link](https://drive.google.com/drive/folders/1SQxTUa4GnERG3AKN3ytlaEyuv-CiGBtM?usp=sharing)
 
+```
 padel_analytics/
 ├── input/
-│   └── infernce_sample_video.mp4
-|── models/
-|   └── yolo26n-pose.pt
-|   └── yolo26n.pt
-|
+│   └── inference_sample_video.mp4
+├── models/
+│   ├── yolo26n-pose.pt
+│   └── yolo26n.pt
 ├── output/
 │   ├── annotated_output.mp4
 │   ├── shots.json
@@ -150,6 +149,7 @@ padel_analytics/
 ├── main.py
 ├── analytics.py
 └── README.md
+```
 
 
 
